@@ -1,0 +1,28 @@
+
+
+/* --------- ***************************************************************************************/
+/* BODY  */
+/* --------- ****************************************************************************************/
+html {
+
+  font-size: 20px;
+  
+  overflow-x: hidden !important;
+  --section-background-color: linear-gradient(
+    to bottom left,
+    rgba(255, 0, 225, 0.582),
+    rgba(49, 49, 49, 0.904)
+  );
+
+  --image-gradient: linear-gradient(
+    to bottom left,
+    rgba(199, 29, 182, 0.678),
+    rgba(29, 29, 29, 0.863)
+  );
+
+  --imp-text-color: #f070b2;
+}
+.purple{
+  color: #f070b2;
+}
+
