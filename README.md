@@ -37,3 +37,5 @@ Commercial, organizational, corporate, hosted, SaaS, and other third-party use i
 All rights are reserved unless explicitly granted in writing.
 
 For the complete terms, see the [`LICENSE`](./LICENSE) file.
+
+Moi
